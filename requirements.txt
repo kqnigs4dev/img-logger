@@ -1,0 +1,5 @@
+# requirements.txt
+discord.py==2.3.2
+requests
+aiohttp
+Pillow
